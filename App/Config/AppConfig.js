@@ -9,6 +9,6 @@ export default {
   WalletEnabled: true,
 
   // Set to false to disable this buttons from drawer
-  howItWorksUrl: 'https://www.semillasocial.org/landing/how_it_works/',
-  aboutUsUrl: 'https://www.semillasocial.org/landing/porque/'
+  howItWorksUrl: 'http://sede.laposibilidad.es/comofunciona',
+  aboutUsUrl: 'http://sede.laposibilidad.es/about'
 }
